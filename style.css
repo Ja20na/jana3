@@ -1,0 +1,31 @@
+body {
+  border: 2px  solid gray;
+  border-radius: 2px;
+ margin: 10px 3% 1em; 
+   width: 500px;
+}
+
+.descreption {
+  border: 2px solid gray;
+  border-radius: 2px;
+}
+
+.card {
+ 
+  width: 300px;
+  height: 700px;
+  margin: 70px;
+  text-align:center;
+}
+
+.fact {
+  font-style: italic;
+}
+
+
+.list {
+    list-style-type:none;
+    padding: 0;
+}
+
+
